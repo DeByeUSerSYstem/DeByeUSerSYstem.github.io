@@ -4,15 +4,22 @@ title:
 permalink: /
 ---
 
-Ciao
+Debussy is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or non-ordered materials. See [J. Appl. Cryst. 2015, 48, 2026-2032](https://doi.org/10.1107/S1600576715020488).
 
-DebUsSy stands for Debye User System and consists of a suite of programs implementing a fast approach to the Debye Scattering Equation (DSE) Analysis for powder diffraction data from nanocrystalline and/or non-ordered materials. See J. Appl. Cryst. 2015, 48, 2026-2032.
+DOWNLOAD THE LATEST VERSION and GET STARTED.
 
-DebUsSy is made of two main suites: CLaUDe and Debussy.
+The Debussy package is made of two main suites: Claude and Debussy.
 
-CLaUDe (Crystalline Layered User Database) allows the user to efficiently build atomic clusters with different size and shape.
+Claude (Crystalline LAyered User DatabasE) allows the user to efficiently build atomic clusters with different size and shape.
 
-Debussy uses the previously created database(s) and carries out a fast calculation of the diffraction profile of each cluster that contributes to the total pattern, according to a suitable and adjustable size-distribution function. The analysis can be performed on single- or multiple-phase specimens, trying to fit one or more experimental data sets collected with Synchrotron or laboratory X-ray, neutron and electron beams. For all radiation types, the scattering amplitudes/factors of atomic species are encoded into the program. Different options are also available to deal with lattice expansions or contractions variable with the crystal size. Both Chebyshev polynomials and experimentally collected data can be used to manage the background component.
+Debussy (DEBye USer SYstem) uses the previously created database(s) and carries out a fast calculation of the diffraction profile of each cluster that contributes to the total pattern, according to a suitable and adjustable size-distribution function. 
+Features of the software includes
+- analysis on single- or multiple-phase specimens
+- fitting on one or more experimental data set simultaneously
+- fitting of data sets collected with synchrotron or laboratory X-ray, neutron and electron beams
+- all scattering amplitudes/factors of atomic species already encoded into the program
+- background components treated with experimental data or Chebyshev polynomials
+- modelling of lattice expansions or contractions varying with the crystal size
 
 For more details on installation and usage please have a look at the About page.
 
