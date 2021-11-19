@@ -1,51 +1,32 @@
 ---
 layout: page
-title: Getting started with Reverie
+title: Getting started with Debussy
 permalink: /getting-started/
 ---
 
-### Step 1) Fork Reverie to your User Repository
 
-Fork [this repository](https://github.com/amitmerchant1990/reverie), then rename the repository to `yourgithubusername.github.io`.
+## How to install Debussy
 
-Alternatively, you can use [Use this template](https://github.com/amitmerchant1990/reverie/generate) button if you want to create a repository with a clean commit history which will use Reverie as a template.
+### Software requirements
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+- Python ver. \<=3.8 installed on your system. We recommend using [Anaconda](https://www.anaconda.com/). During the installation of Anaconda, select the option *“Add Anaconda to the User PATH environmental variable”*, although not recommended by the installer.
+- [Java](https://www.java.com/). This is only required for the integrated atomistic models visualization tool.
+- *Only MacOSX* \- [XQuartz](www.xquartz.org). Note: restart your computer after the installation.
 
-### Step 2) Customize and view your site
+### Installation on Windows
 
-Enter your site name, description, avatar and many other options by editing the `_config.yml` file. You can easily turn on Google Analytics tracking, Disqus commenting and social icons here.
+- Move the `cygwin64` folder in the `C:\` directory. Other location are not supported.
+- Run `install_v2.2.bat` as administrator (right click \> Run as administrator). If not possible, run the file normally (double-click).
+- If the installer failed to update your `PATH` environmental variables, you can do it yourself by adding `C:\cygwin64\bin`. [Tutorial to add an environmental variable](https://www.opentechguides.com/how-to/article/windows-10/113/windows-10-set-path.html).
+- Launch Debussy by double-clicking on `debussy-suite_GUI.bat` in the `C:\cygwin64\DEBUSSY_v2.2` folder.
 
-Making a change to `_config.yml` (or any file in your repository) will force GitHub Pages to rebuild your site with jekyll. Your rebuilt site will be viewable a few seconds later at <https://yourgithubusername.github.io> - if not, give it ten minutes as GitHub suggests and it'll appear soon.
 
-### Step 3) Publish your first blog post
+### Installation on MacOSX
 
-Create a new file called `/_posts/2019-2-13-Hello-World.md` to publish your first blog post. That's all you need to do to publish your first blog post! This [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) might come in handy while writing the posts.
 
-> You can add additional posts in the browser on GitHub.com too! Just hit the <kbd>Create new file</kbd> button in `/_posts/` to create new content. Just make sure to include the [front-matter](http://jekyllrb.com/docs/frontmatter/) block at the top of each new blog post and make sure the post's filename is in this format: year-month-day-title.md
+- Move into the folder `DEBUSSY_v2.2`
+- Run the installer by typing on the terminal: `./install_debussy_v2.2`. You will be asked for root credentials
+- Move into the folder `RUN_TEST_UNIX`
+- Run the file `drun.sh` and follow the instruction on screen
 
-## Using Categories in Reverie
 
-You can categorize your content based on `categories` in Reverie. For this, you just need to add `categories` in front matter like below:
-
-For adding single category:
-
-```md
-categories: JavaScript
-```
-
-For adding multiple categories:
-
-```md
-categories: [PHP, Laravel]
-```
-
-The contegorized content can be shown over this URL: <https://yourgithubusername.github.io/categories/>
-
-## RSS
-
-The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be found at <https://yourgithubusername.github.io/feed>. You can see the example RSS feed over [here](https://www.amitmerchant.com/reverie/feed).
-
-## Sitemap
-
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
