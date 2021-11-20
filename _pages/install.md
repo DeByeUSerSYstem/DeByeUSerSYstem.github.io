@@ -4,9 +4,10 @@ title: Install or compile Debussy
 permalink: /install/
 ---
 
+---
 
 ## How to install Debussy
----
+
 ### Software requirements
 
 - Python ver. \<=3.8 installed on your system. We recommend using [Anaconda](https://www.anaconda.com/). During the installation of Anaconda, select the option *“Add Anaconda to the User PATH environmental variable”*, although not recommended by the installer.
@@ -28,6 +29,8 @@ permalink: /install/
 - Move into the folder `RUN_TEST_UNIX`
 - Run the file `drun.sh` and follow the instructions on screen
 
-## How to compile Debussy
 ---
+
+## How to compile Debussy
+
 instructions incoming
