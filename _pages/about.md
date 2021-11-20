@@ -14,6 +14,7 @@ Debussy can be used to perform a full analysis of diffraction data, from modelli
 
 You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).<br/>
 If you have questions about Debussy, contact us.
+[//]: # (Aggiungere il link a contact us)
 
 ### What are the features of Debussy?
 Here some of the prevalent features of Debussy.
@@ -42,6 +43,7 @@ If you are interested in attending a school on how to use Debussy and total-scat
 
 ### What was done with Debussy?
 Here some highlight studies.
+[//]: # (Questa è una grossa lista difficile da consultare. Da sostituire con qualcosa)
 - On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis. [doi.org/10.1016/j.actbio.2020.04.026](https://doi.org/10.1016/j.actbio.2020.04.026)
 - The role of nanoparticle structure and morphology in the dissolution kinetics and nutrient release of nitrate-doped calcium phosphate nanofertilizers. [doi.org/10.1038/s41598-020-69279-2](https://doi.org/10.1038/s41598-020-69279-2)
 - Structure, Morphology, and Faceting of TiO2 Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
