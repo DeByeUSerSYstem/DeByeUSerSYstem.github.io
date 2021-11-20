@@ -53,7 +53,7 @@ Here some highlight studies.
 - Dismantling the “Red Wall” of Colloidal Perovskites: Highly Luminescent Formamidinium and Formamidinium–Cesium Lead Iodide Nanocrystals. [doi.org/10.1021/acsnano.7b00116](https://doi.org/10.1021/acsnano.7b00116)
 - The synergic role of collagen and citrate in stabilizing amorphous calcium phosphate precursors with platy morphology. [doi.org/10.1016/j.actbio.2016.11.041](https://doi.org/10.1016/j.actbio.2016.11.041)
 - Monodisperse formamidinium lead bromide nanocrystals with bright and stable green photoluminescence. [doi.org/10.1021/jacs.6b08900](https://doi.org/10.1021/jacs.6b08900)
-- Crystal symmetry breaking and vacancies in colloidal lead chalcogenide quantum dots. [https://doi.org/10.1038/nmat4661](doi.org/10.1038/nmat4661)
+- Crystal symmetry breaking and vacancies in colloidal lead chalcogenide quantum dots. [doi.org/10.1038/nmat4661](https://doi.org/10.1038/nmat4661)
 - Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals. [doi.org/10.1002/adfm.201302075](https://doi.org/10.1002/adfm.201302075)
 - Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties. [doi.org/10.1021/cm403360f](https://doi.org/10.1021/cm403360f)
 - Nanosized rare-earth hexaborides. [doi.org/10.1016/j.solidstatesciences.2013.04.001](https://doi.org/10.1016/j.solidstatesciences.2013.04.001)
