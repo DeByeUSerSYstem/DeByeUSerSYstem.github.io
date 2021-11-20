@@ -11,6 +11,7 @@ permalink: /about/
 Debussy can be used to perform a full analysis of diffraction data, from modelling to fitting. A common analysis workflow consist in two main steps:
 1. building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the **Claude** (Crystalline LAyered User DatabasE) part. Different clusters shapes (e.g. cubes, parallelepipeds, cylinders...) are available.
 2. calculation of the Debye function and refinement of powder diffraction. This is performed by the **Debussy** (DEBye USer SYstem) part.  The program offers different kind of global optimisation algorithms to refine experimental data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.<br/>
+
 You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).<br/>
 If you have questions about Debussy, contact us.
 
