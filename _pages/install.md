@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Getting started with Debussy
+title: Install or compile Debussy
 permalink: /install/
 ---
 

@@ -16,7 +16,7 @@ Debussy (DEBye USer SYstem) uses the previously created database(s) and carries 
 Features of the software includes
 - analysis on single- or multiple-phase specimens
 - fitting on one or more experimental data set simultaneously
-- fitting of data sets collected with synchrotron or laboratory X-ray, neutron and electron beams
+- fitting of data sets collected with synchrotron or laboratory X-ray
 - all scattering amplitudes/factors of atomic species already encoded into the program
 - background components treated with experimental data or Chebyshev polynomials
 - modelling of lattice expansions or contractions varying with the crystal size
