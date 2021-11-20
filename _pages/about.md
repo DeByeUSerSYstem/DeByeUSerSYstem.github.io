@@ -8,10 +8,10 @@ permalink: /about/
 [Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or non-ordered materials. Debussy is written in Fortran, while its GUI is written in Python. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### What can Debussy do?
-Debussy can be used to perform a full analysis of diffraction data, from the modelling to the fitting. A common analysis workflow consist in two main steps:
-1. building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the Claude (Crystalline LAyered User DatabasE) part. Different clusters shapes (e.g. cubes, parallelepipeds, cylinders...) are available.
-2. calculation of the Debye function and refinement of powder diffraction. This is performed by the Debye (DEBye USer SYstem) part.  The program offers different kind of global optimisation algorithms to refine experimental data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.
-You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).
+Debussy can be used to perform a full analysis of diffraction data, from modelling to fitting. A common analysis workflow consist in two main steps:
+1. building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the **Claude** (Crystalline LAyered User DatabasE) part. Different clusters shapes (e.g. cubes, parallelepipeds, cylinders...) are available.
+2. calculation of the Debye function and refinement of powder diffraction. This is performed by the **Debussy** (DEBye USer SYstem) part.  The program offers different kind of global optimisation algorithms to refine experimental data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.<br/>
+You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).<br/>
 If you have questions about Debussy, contact us.
 
 ### What are the features of Debussy?
@@ -25,18 +25,18 @@ Here some of the prevalent features of Debussy.
 
 
 ### Who made Debussy and when?
-In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) and [Cinzia Giannini](http://www.ic.cnr.it/ic4/staff/cinzia-giannini/) published a [new apporach for the evaluation of Fourier patterns of model structures](https://doi.org/10.1002/jcc.20407). This was critical to make feasable the employment of a DSE-based technique to model scattering data. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow structure from the modelling to the fitting.
-In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a GUI, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.
+In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) and [Cinzia Giannini](http://www.ic.cnr.it/ic4/staff/cinzia-giannini/) published a [new apporach for the evaluation of Fourier patterns of model structures]<br/>(https://doi.org/10.1002/jcc.20407). This made feasable the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow to perform an analysis from modelling to fitting.<br/>
+In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a GUI, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
 Debussy is still developed and mantained by the jointed efforts of the [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Ruggero Frison](https://www.empa.ch/)
 
 
 ### How can I find out more about Debussy?
-If you want too learn how to use the software, visit the [getting started](https://debyeusersystem.github.io/getting-started/) section of this website.
-The full documentation of the software is provided in the [manuals](https://sourceforge.net/projects/debussy/files/2.2/MANUALS.zip/download).
+If you want to learn how to use the software, visit the [getting started](https://debyeusersystem.github.io/getting-started/) section of this website.<br/>
+The full documentation of the software is provided in the [manuals](https://sourceforge.net/projects/debussy/files/2.2/MANUALS.zip/download).<br/>
 For an in-depth explanation of the central concepts regarding the software and their implementations please refer to the following publications.
 - A. Cervellino, R. Frison, F. Bertolotti and  A. Guagliardi, *J. Appl. Cryst.*, **2015**, *48*, 2026-2032, [doi.org/10.1107/S1600576715020488](https://https://doi.org/10.1107/S1600576715020488).
 - A. Cervellino, C. Giannini and  A. Guagliardi, *J. Appl. Cryst.*, **2010**, *43*, 1543-1547, [doi.org/10.1107/S0021889810041889](https://doi.org/10.1107/S0021889810041889).
-- A. Cervellino, C. Giannini and  A. Guagliardi, *J. Comput. Chem.*, **2006**, *27*, 995-1008, [doi.org/10.1002/jcc.20407](https://doi.org/10.1002/jcc.20407).
+- A. Cervellino, C. Giannini and  A. Guagliardi, *J. Comput. Chem.*, **2006**, *27*, 995-1008, [doi.org/10.1002/jcc.20407](https://doi.org/10.1002/jcc.20407).<br/>
 If you are interested in attending a school on how to use Debussy and total-scattering approaches, we suggest following the news of the [ToScaLab](http://toscalab.uninsubria.it/) social profile on [Facebook](https://www.facebook.com/toscalabCO). A school on the topic is generally held once a year.
 
 ### What was done with Debussy?
@@ -45,7 +45,7 @@ Here some highlight studies.
 - The role of nanoparticle structure and morphology in the dissolution kinetics and nutrient release of nitrate-doped calcium phosphate nanofertilizers. [doi.org/10.1038/s41598-020-69279-2](https://doi.org/10.1038/s41598-020-69279-2)
 - Structure, Morphology, and Faceting of TiO2 Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
 - Engineering Biomimetic Calcium Phosphate Nanoparticles: A Green Synthesis of Slow-Release Multinutrient (NPK) Nanofertilizers. [doi.org/10.1021/acsabm.9b00937](https://doi.org/10.1021/acsabm.9b00937)
-- Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr<sub>3</sub> Nanoplatelets from X-ray Total Scattering. [doi.org/10.1021/acsnano.9b07626](https://doi.org/10.1021/acsnano.9b07626)
+- Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr3 Nanoplatelets from X-ray Total Scattering. [doi.org/10.1021/acsnano.9b07626](https://doi.org/10.1021/acsnano.9b07626)
 - Size-Dependent Fault-Driven Relaxation and Faceting in Zincblende CdSe Colloidal Quantum Dots. [doi.org/10.1021/acsnano.8b07092](https://doi.org/10.1021/acsnano.8b07092)
 - Exploration of Near-Infrared-Emissive Colloidal Multinary Lead Halide Perovskite Nanocrystals Using an Automated Microfluidic Platform. [doi.org/10.1021/acsnano.8b01122](https://doi.org/10.1021/acsnano.8b01122)
 - Coherent nanotwins and dynamic disorder in cesium lead halide perovskite nanocrystals. [doi.org/10.1021/acsnano.7b00017](https://doi.org/10.1021/acsnano.7b00017)
@@ -56,30 +56,5 @@ Here some highlight studies.
 - Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals. [doi.org/10.1002/adfm.201302075](https://doi.org/10.1002/adfm.201302075)
 - Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties. [doi.org/10.1021/cm403360f](https://doi.org/10.1021/cm403360f)
 - Nanosized rare-earth hexaborides. [doi.org/10.1016/j.solidstatesciences.2013.04.001](https://doi.org/10.1016/j.solidstatesciences.2013.04.001)
-- From Paracrystalline Ru(CO)<sub>4</sub> 1D Polymer to Nanosized Ruthenium Metal. [doi.org/10.1021/cg3004504](https://doi.org/10.1021/cg3004504)
-- Size and Shape Dependence of the Photocatalytic Activity of TiO<sub>2</sub> Nanocrystals. [doi.org/10.1021/ja110225n](https://doi.org/10.1021/ja110225n)
-
-
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
-
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
-
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+- From Paracrystalline Ru(CO)4 1D Polymer to Nanosized Ruthenium Metal. [doi.org/10.1021/cg3004504](https://doi.org/10.1021/cg3004504)
+- Size and Shape Dependence of the Photocatalytic Activity of TiO2 Nanocrystals. [doi.org/10.1021/ja110225n](https://doi.org/10.1021/ja110225n)
