@@ -38,6 +38,7 @@ For an in-depth explanation of the central concepts regarding the software and t
 - A. Cervellino, R. Frison, F. Bertolotti and  A. Guagliardi, *J. Appl. Cryst.*, **2015**, *48*, 2026-2032, [doi.org/10.1107/S1600576715020488](https://https://doi.org/10.1107/S1600576715020488).
 - A. Cervellino, C. Giannini and  A. Guagliardi, *J. Appl. Cryst.*, **2010**, *43*, 1543-1547, [doi.org/10.1107/S0021889810041889](https://doi.org/10.1107/S0021889810041889).
 - A. Cervellino, C. Giannini and  A. Guagliardi, *J. Comput. Chem.*, **2006**, *27*, 995-1008, [doi.org/10.1002/jcc.20407](https://doi.org/10.1002/jcc.20407).<br/>
+
 If you are interested in attending a school on how to use Debussy and total-scattering approaches, we suggest following the news of the [ToScaLab](http://toscalab.uninsubria.it/) social profile on [Facebook](https://www.facebook.com/toscalabCO). A school on the topic is generally held once a year.
 
 ### What was done with Debussy?
