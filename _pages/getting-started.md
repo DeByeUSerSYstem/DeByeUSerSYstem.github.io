@@ -6,7 +6,7 @@ permalink: /getting-started/
 
 
 ## How to install Debussy
-
+---
 ### Software requirements
 
 - Python ver. \<=3.8 installed on your system. We recommend using [Anaconda](https://www.anaconda.com/). During the installation of Anaconda, select the option *“Add Anaconda to the User PATH environmental variable”*, although not recommended by the installer.
@@ -23,11 +23,11 @@ permalink: /getting-started/
 
 ### Installation on MacOSX
 
-
 - Move into the folder `DEBUSSY_v2.2`
 - Run the installer by typing on the terminal: `./install_debussy_v2.2`. You will be asked for root credentials
 - Move into the folder `RUN_TEST_UNIX`
 - Run the file `drun.sh` and follow the instruction on screen
 
 ## Tutorial
+---
 
