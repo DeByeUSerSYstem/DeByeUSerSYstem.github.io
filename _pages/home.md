@@ -4,9 +4,11 @@ title:
 permalink: /
 ---
 
+[//]: # (Aggiornare l'aspetto della home con qualche figura e dei tasti per download e get started)
+
 Debussy is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or non-ordered materials. See [J. Appl. Cryst. 2015, 48, 2026-2032](https://doi.org/10.1107/S1600576715020488).
 
-DOWNLOAD THE LATEST VERSION and GET STARTED.
+[Download](https://debyeusersystem.github.io/download/) the laterst version and get started[get started](https://debyeusersystem.github.io/getting-started/).
 
 The Debussy package is made of two main suites: Claude and Debussy.
 
