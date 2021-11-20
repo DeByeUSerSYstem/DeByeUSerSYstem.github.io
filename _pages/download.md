@@ -10,14 +10,14 @@ We shall greatly appreciate if scientific work done using Debussy will contain a
 
 ### Latest version
 
-[Windows version](https://sourceforge.net/projects/debussy/files/2.2/WINDOWS/)
-[Unix/Linux/MacOSX](https://sourceforge.net/projects/debussy/files/2.2/UNIX-LINUX-MACOSX/)
+[Windows version](https://sourceforge.net/projects/debussy/files/2.2/WINDOWS/)<br/>
+[Unix/Linux/MacOSX](https://sourceforge.net/projects/debussy/files/2.2/UNIX-LINUX-MACOSX/)<br/>
 
 ### Latest version bundled with Anaconda3
 
-[Windows version](https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/WINDOWS/Debussy_v2_2_WIN.zip)
-[Unix/Linux/MacOSX](https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/UNIX-LINUX-MACOSX/DEBUSSY_v2.2.zip)
+[Windows version](https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/WINDOWS/Debussy_v2_2_WIN.zip)<br/>
+[Unix/Linux/MacOSX](https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/UNIX-LINUX-MACOSX/DEBUSSY_v2.2.zip)<br/>
 
 ### How to use Debussy
-Discover how to use Debussy [here](https://debyeusersystem.github.io/getting-started/).
+Learn how to use Debussy [here](https://debyeusersystem.github.io/getting-started/).
 
