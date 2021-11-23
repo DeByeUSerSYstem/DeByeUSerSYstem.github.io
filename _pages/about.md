@@ -43,6 +43,7 @@ If you are interested in attending a school on how to use Debussy and total-scat
 
 ### What was done with Debussy?
 Here some highlight studies.
+- Band Gap Narrowing in Silane-Grafted ZnO Nanocrystals. A Comprehensive Study by Wide-Angle X-ray Total Scattering Methods.[doi.org/10.1021/acs.jpcc.0c10502](https://doi.org/10.1021/acs.jpcc.0c10502)
 - On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis. [doi.org/10.1016/j.actbio.2020.04.026](https://doi.org/10.1016/j.actbio.2020.04.026)
 - Structure, Morphology, and Faceting of TiO<sub>2</sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
 - Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr<sub>3</sub> Nanoplatelets from X-ray Total Scattering. [doi.org/10.1021/acsnano.9b07626](https://doi.org/10.1021/acsnano.9b07626)
