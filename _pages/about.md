@@ -72,16 +72,16 @@ If you are interested in attending a school on how to use Debussy and total-scat
 Here some highlight studies:
 - [Band Gap Narrowing in Silane-Grafted ZnO Nanocrystals. A Comprehensive Study by Wide-Angle X-ray Total Scattering Methods.] [13]
 - [On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis.] [14]
-- Structure, Morphology, and Faceting of TiO<sub>2<sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of [Study.] [15]
-- Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr_3 Nanoplatelets from X-ray Total [Scattering.] [16]
+- Structure, Morphology, and Faceting of TiO<sub>2</sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of [Study.] [15]
+- Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr<sub>2<\sub> Nanoplatelets from X-ray Total [Scattering.] [16]
 - [Size-Dependent Fault-Driven Relaxation and Faceting in Zincblende CdSe Colloidal Quantum Dots.] [17]
 - [When Crystals Go Nano–The Role of Advanced X‐ray Total Scattering Methods in Nanotechnology.] [18]
 - [Coherent nanotwins and dynamic disorder in caesium lead halide perovskite nanocrystals.] [19]
 - [Crystal symmetry breaking and vacancies in colloidal lead chalcogenide quantum dots.] [20]
 - [Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals.] [21]
 - [Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties.] [22]
-- [From Paracrystalline Ru(CO)_4 1D Polymer to Nanosized Ruthenium Metal.] [23]
-- [Size and Shape Dependence of the Photocatalytic Activity of TiO<sub>2<sub> Nanocrystals.] [24]
+- [From Paracrystalline Ru(CO)<sub>2<\sub> 1D Polymer to Nanosized Ruthenium Metal.] [23]
+- [Size and Shape Dependence of the Photocatalytic Activity of TiO<sub>2</sub> Nanocrystals.] [24]
 - [Determination of nanoparticle structure type, size and strain distribution from X-ray data for monatomic fcc-derived non-crystallographic nanoclusters.] [25]
 
 [13]: <https://doi.org/10.1021/acs.jpcc.0c10502>
