@@ -5,9 +5,9 @@ permalink: /
 ---
 
 Debussy is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for total scattering data from nanocrystalline and/or defective materials. <br>
-See [J. Appl. Cryst. 2015, 48, 2026-2032](https://doi.org/10.1107/S1600576715020488 "DEBUSSY 2.0: the new release").
+See [J. Appl. Cryst. 2015, 48, 2026-2032] [1].
 
-[Download](https://debyeusersystem.github.io/download/ "Download") the latest version and [get started](https://debyeusersystem.github.io/getting-started/ "Getting Started").
+[Download] [2] the latest version and [get started] [3].
 
 ----
 
@@ -25,7 +25,14 @@ Features of the software includes:
 - background components treated with experimental data or Chebyshev polynomials
 - modelling of lattice expansions or contractions varying with the crystal size
 
-For more details on _installation and usage_ please have a look at the [About](https://debyeusersystem.github.io/about/ "About") page.
+For more details on _installation and usage_ please have a look at the [About] [4] page.
 
-If you have questions, [contact us](mailto:federica.bertolotti@uninsubria.it;antonietta.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch)!
+If you have questions, [contact us] [5]!
+
+
+[1]: <(https://doi.org/10.1107/S1600576715020488> "DEBUSSY 2.0: the new release"
+[2]: <https://debyeusersystem.github.io/download/> "Download"
+[3]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
+[4]: <https://debyeusersystem.github.io/about/> "About"
+[5]: <mailto:federica.bertolotti@uninsubria.it;antonietta.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch>
 
