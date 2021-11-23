@@ -16,7 +16,7 @@ You can find how to get started with Debussy [here](https://debyeusersystem.gith
 If you have questions about Debussy, contact us.
 
 ### What are the features of Debussy?
-Here some of the prevalent features of Debussy.
+Here some of the main features of Debussy.
 - Analysis on single- or multiple-phase specimens
 - Fitting on one or more experimental data set simultaneously
 - Fitting of data sets collected with synchrotron or laboratory X-ray
@@ -41,7 +41,7 @@ For an in-depth explanation of the central concepts regarding the software and t
 
 If you are interested in attending a school on how to use Debussy and total-scattering approaches, we suggest following the news of the [ToScaLab](http://toscalab.uninsubria.it/) social profile on [Facebook](https://www.facebook.com/toscalabCO). A school on the topic is generally held once a year.
 
-### What was done with Debussy?
+### What has been done with Debussy?
 Here some highlight studies.
 - Band Gap Narrowing in Silane-Grafted ZnO Nanocrystals. A Comprehensive Study by Wide-Angle X-ray Total Scattering Methods.[doi.org/10.1021/acs.jpcc.0c10502](https://doi.org/10.1021/acs.jpcc.0c10502)
 - On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis. [doi.org/10.1016/j.actbio.2020.04.026](https://doi.org/10.1016/j.actbio.2020.04.026)
