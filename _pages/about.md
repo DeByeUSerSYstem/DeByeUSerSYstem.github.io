@@ -5,12 +5,12 @@ permalink: /about/
 ---
 
 ### What is Debussy?
-[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or defective materials. Debussy is written in Fortran, while its GUI is written in Python. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
+[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or defective materials. Debussy is written in Fortran90, while its GUI in Python3. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### What can Debussy do?
-Debussy can be used to perform a full analysis of diffraction data, from modelling to fitting. A common analysis workflow consist in two main steps:
+Debussy can be used to perform a full analysis of Small angle (SAXS) and Wide angle (WAXS) total scattering data, from modelling to fitting. A common analysis workflow consist in two main steps:
 1. Building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the **Claude** (`Crystalline LAyered User DatabasE`) part. Different clusters shapes (e.g. spheres, cubes, prisms, cylinders...) are available.
-2. Calculation of the Debye function and refinement of powder diffraction. This is performed by the **Debussy** (`DEBye USer SYstem`) part.  The program offers different kind of global optimisation algorithms to refine experimental data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.<br/>
+2. Calculation of the Debye function and refinement of model parameters against SAXS/WAXS data. This is performed by the **Debussy** (`DEBye USer SYstem`) part.  The program offers different kind of global optimisation algorithms to refine the model against experimental total scattering data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.<br/>
 
 You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).<br/>
 If you have questions about Debussy, contact us.
@@ -18,7 +18,7 @@ If you have questions about Debussy, contact us.
 ### What are the features of Debussy?
 Here some of the main features of Debussy.
 - Analysis on single- or multiple-phase specimens
-- Fitting on one or more experimental data set simultaneously
+- Fitting on one or more experimental data set simultaneously (e.g. SAXS and WAXS datasets)
 - Fitting of data sets collected with synchrotron or laboratory X-ray
 - All scattering amplitudes/factors of atomic species already encoded into the program
 - Background components treated with experimental data or Chebyshev polynomials
