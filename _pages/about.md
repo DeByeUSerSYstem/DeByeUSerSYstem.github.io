@@ -22,13 +22,13 @@ Here some of the main features of Debussy.
 - Fitting of data sets collected with synchrotron or laboratory X-ray
 - All scattering amplitudes/factors of atomic species already encoded into the program
 - Background components treated with experimental data or Chebyshev polynomials
-- Modelling of lattice expansions or contractions varying with the crystal size
+- Modelling of lattice expansions/contractions, site occupancy factors, Debye-Waller factors upon varying cluster sizes
 
 
 ### Who made Debussy and when?
-In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) developed a [new apporach for the evaluation of Fourier patterns of model structures](https://doi.org/10.1002/jcc.20407). This made feasable the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow to perform an analysis from modelling to fitting.<br/>
+In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) developed a [new apporach for the evaluation of Fourier patterns of model structures](https://doi.org/10.1002/jcc.20407). This made feasable the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow to perform data analysis, from modelling to fitting.<br/>
 In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a Graphical User Interface, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
-Debussy is still developed and mantained by the jointed efforts of the [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Ruggero Frison](https://www.empa.ch/)
+Debussy is still developed and mantained by the jointed efforts of [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Ruggero Frison](https://www.empa.ch/)
 
 
 ### How can I find out more about Debussy?
