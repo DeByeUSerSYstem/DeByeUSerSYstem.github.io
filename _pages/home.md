@@ -4,7 +4,7 @@ title:
 permalink: /
 ---
 
-Debussy is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for total scattering data from nanocrystalline and/or defective materials. See [J. Appl. Cryst. 2015, 48, 2026-2032](https://doi.org/10.1107/S1600576715020488).
+Debussy is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) for computing total scattering data from nanocrystalline and/or defective materials. See [J. Appl. Cryst. 2015, 48, 2026-2032](https://doi.org/10.1107/S1600576715020488).
 
 [Download](https://debyeusersystem.github.io/download/) the laterst version and get started [get started](https://debyeusersystem.github.io/getting-started/).
 

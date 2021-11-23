@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### What is Debussy?
-[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for total scattering data from nanocrystalline and/or defective materials. Debussy is written in Fortran90, while its GUI in Python3. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
+[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE), for computing total scattering data from nanocrystalline and/or defective materials. Debussy is written in Fortran90, while its GUI in Python3. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### What can Debussy do?
 Debussy can be used to perform a full analysis of Small angle (SAXS) and Wide angle (WAXS) total scattering data, from modelling to fitting. A common analysis workflow consist in two main steps:
@@ -27,8 +27,8 @@ Here some of the main features of Debussy.
 
 ### Who made Debussy and when?
 In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) developed a [new approach for the evaluation of Fourier patterns of model structures](https://doi.org/10.1002/jcc.20407). This made feasable the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow to perform data analysis, from modelling to fitting.<br/>
-In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a Graphical User Interface, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
-Debussy is still developed and mantained by the jointed efforts of [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Ruggero Frison](https://www.empa.ch/)
+In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.physik.uzh.ch/groups/chang/people.php), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a Graphical User Interface, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
+Debussy is still developed and mantained by the jointed efforts of [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) (SLS/PSI) and [Ruggero Frison](https://www.physik.uzh.ch/groups/chang/people.php) (UZH).
 
 
 ### How can I find out more about Debussy?
