@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### What is Debussy?
-[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or non-ordered materials. Debussy is written in Fortran, while its GUI is written in Python. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
+[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or defective materials. Debussy is written in Fortran, while its GUI is written in Python. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### What can Debussy do?
 Debussy can be used to perform a full analysis of diffraction data, from modelling to fitting. A common analysis workflow consist in two main steps:
