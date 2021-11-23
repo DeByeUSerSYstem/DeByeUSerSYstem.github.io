@@ -4,6 +4,8 @@ title: How to use Debussy
 permalink: /getting-started/
 ---
 
+---
+
 - [Quick start guide] [1]
 - [Tutorial] [2] and [tutorial data] [3]
 - [Debussy manuals] [4]
