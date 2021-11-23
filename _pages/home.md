@@ -27,12 +27,12 @@ Features of the software includes:
 
 For more details on _installation and usage_ please have a look at the [About] [4] page.
 
-If you have questions, [contact us] [5]!
+If you have questions, [contact us] [mailto]!
 
 
-[1]: <(https://doi.org/10.1107/S1600576715020488> "DEBUSSY 2.0: the new release"
+[1]: <https://doi.org/10.1107/S1600576715020488> "DEBUSSY 2.0: the new release - J Appl Cryst"
 [2]: <https://debyeusersystem.github.io/download/> "Download"
 [3]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
 [4]: <https://debyeusersystem.github.io/about/> "About"
-[5]: <mailto:federica.bertolotti@uninsubria.it;antonietta.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch>
+[mailto]: <mailto:federica.bertolotti@uninsubria.it;antonietta.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch>
 
