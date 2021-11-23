@@ -44,13 +44,14 @@ If you are interested in attending a school on how to use Debussy and total-scat
 ### What was done with Debussy?
 Here some highlight studies.
 - On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis. [doi.org/10.1016/j.actbio.2020.04.026](https://doi.org/10.1016/j.actbio.2020.04.026)
-- The role of nanoparticle structure and morphology in the dissolution kinetics and nutrient release of nitrate-doped calcium phosphate nanofertilizers. [doi.org/10.1038/s41598-020-69279-2](https://doi.org/10.1038/s41598-020-69279-2)
 - Structure, Morphology, and Faceting of TiO<sub>2</sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
 - Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr3 Nanoplatelets from X-ray Total Scattering. [doi.org/10.1021/acsnano.9b07626](https://doi.org/10.1021/acsnano.9b07626)
 - Size-Dependent Fault-Driven Relaxation and Faceting in Zincblende CdSe Colloidal Quantum Dots. [doi.org/10.1021/acsnano.8b07092](https://doi.org/10.1021/acsnano.8b07092)
+- When Crystals Go Nano–The Role of Advanced X‐ray Total Scattering Methods in Nanotechnology. [doi.org/10.1002/ejic.201800534](https://doi.org/10.1002/ejic.201800534)
 - Coherent nanotwins and dynamic disorder in cesium lead halide perovskite nanocrystals. [doi.org/10.1021/acsnano.7b00017](https://doi.org/10.1021/acsnano.7b00017)
 - Crystal symmetry breaking and vacancies in colloidal lead chalcogenide quantum dots. [doi.org/10.1038/nmat4661](https://doi.org/10.1038/nmat4661)
 - Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals. [doi.org/10.1002/adfm.201302075](https://doi.org/10.1002/adfm.201302075)
 - Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties. [doi.org/10.1021/cm403360f](https://doi.org/10.1021/cm403360f)
 - From Paracrystalline Ru(CO)4 1D Polymer to Nanosized Ruthenium Metal. [doi.org/10.1021/cg3004504](https://doi.org/10.1021/cg3004504)
 - Size and Shape Dependence of the Photocatalytic Activity of TiO2 Nanocrystals. [doi.org/10.1021/ja110225n](https://doi.org/10.1021/ja110225n)
+- Determination of nanoparticle structure type, size and strain distribution from X-ray data for monatomic fcc-derived non-crystallographic nanoclusters. [doi.org/10.1107/S0021889803013542](https://doi.org/10.1107/S0021889803013542)
