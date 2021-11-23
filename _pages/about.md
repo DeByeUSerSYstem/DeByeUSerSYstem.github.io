@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 ### What is Debussy?
-[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for powder diffraction data from nanocrystalline and/or defective materials. Debussy is written in Fortran90, while its GUI in Python3. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
+[Debussy](https://debyeusersystem.github.io/) is a package of programs implementing a fast approach to the Debye Scattering Equation (DSE) analysis for total scattering data from nanocrystalline and/or defective materials. Debussy is written in Fortran90, while its GUI in Python3. Debussy is a free open-source software published under the terms of the [GNU General Public License Version 3](https://www.gnu.org/licenses/gpl-3.0.txt).
 
 ### What can Debussy do?
 Debussy can be used to perform a full analysis of Small angle (SAXS) and Wide angle (WAXS) total scattering data, from modelling to fitting. A common analysis workflow consist in two main steps:
@@ -19,7 +19,7 @@ If you have questions about Debussy, contact us.
 Here some of the main features of Debussy.
 - Analysis on single- or multiple-phase specimens
 - Fitting on one or more experimental data set simultaneously (e.g. SAXS and WAXS datasets)
-- Fitting of data sets collected with synchrotron or laboratory X-ray
+- Fitting of data sets collected with synchrotron or laboratory X-ray instruments
 - All scattering amplitudes/factors of atomic species already encoded into the program
 - Background components treated with experimental data or Chebyshev polynomials
 - Modelling of lattice expansions/contractions, site occupancy factors, Debye-Waller factors upon varying cluster sizes
