@@ -45,7 +45,7 @@ If you are interested in attending a school on how to use Debussy and total-scat
 Here some highlight studies.
 - On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis. [doi.org/10.1016/j.actbio.2020.04.026](https://doi.org/10.1016/j.actbio.2020.04.026)
 - The role of nanoparticle structure and morphology in the dissolution kinetics and nutrient release of nitrate-doped calcium phosphate nanofertilizers. [doi.org/10.1038/s41598-020-69279-2](https://doi.org/10.1038/s41598-020-69279-2)
-- Structure, Morphology, and Faceting of TiO2 Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
+- Structure, Morphology, and Faceting of TiO<sub>2</sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study. [doi.org/10.3390/nano10040743](https://doi.org/10.3390/nano10040743)
 - Engineering Biomimetic Calcium Phosphate Nanoparticles: A Green Synthesis of Slow-Release Multinutrient (NPK) Nanofertilizers. [doi.org/10.1021/acsabm.9b00937](https://doi.org/10.1021/acsabm.9b00937)
 - Crystal Structure, Morphology, and Surface Termination of Cyan-Emissive, Six-Monolayers-Thick CsPbBr3 Nanoplatelets from X-ray Total Scattering. [doi.org/10.1021/acsnano.9b07626](https://doi.org/10.1021/acsnano.9b07626)
 - Size-Dependent Fault-Driven Relaxation and Faceting in Zincblende CdSe Colloidal Quantum Dots. [doi.org/10.1021/acsnano.8b07092](https://doi.org/10.1021/acsnano.8b07092)
