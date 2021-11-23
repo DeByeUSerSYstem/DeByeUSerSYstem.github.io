@@ -9,7 +9,7 @@ permalink: /about/
 
 ### What can Debussy do?
 Debussy can be used to perform a full analysis of diffraction data, from modelling to fitting. A common analysis workflow consist in two main steps:
-1. Building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the **Claude** (`Crystalline LAyered User DatabasE`) part. Different clusters shapes (e.g. cubes, parallelepipeds, cylinders...) are available.
+1. Building a database of atomic clusters of variable size where the atomic coordinates and the inter-atomic distances are stored. This is perfomed by the **Claude** (`Crystalline LAyered User DatabasE`) part. Different clusters shapes (e.g. spheres, cubes, prisms, cylinders...) are available.
 2. Calculation of the Debye function and refinement of powder diffraction. This is performed by the **Debussy** (`DEBye USer SYstem`) part.  The program offers different kind of global optimisation algorithms to refine experimental data and to extract quantitative structural informations like: lattice constants, strain, site occupation factors, thermal parameters and domain size distributions.<br/>
 
 You can find how to get started with Debussy [here](https://debyeusersystem.github.io/getting-started/).<br/>
@@ -27,7 +27,7 @@ Here some of the prevalent features of Debussy.
 
 ### Who made Debussy and when?
 In 2006 [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) developed a [new apporach for the evaluation of Fourier patterns of model structures](https://doi.org/10.1002/jcc.20407). This made feasable the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy](https://doi.org/10.1107/S0021889810041889), that included a full workflow to perform an analysis from modelling to fitting.<br/>
-In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a GUI, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
+In 2015, [Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino), [Ruggero Frison](https://www.empa.ch/), [Federica Bertolotti](http://toscalab.uninsubria.it/index.php/people) and [Antonietta Guagliardi](http://toscalab.uninsubria.it/index.php/people) released the Debussy 2.0. This update introduced many new features, incluing a Graphical User Interface, the treatment of Compton scattering and a more robust statistical treatment of fitting parameters.<br/>
 Debussy is still developed and mantained by the jointed efforts of the [ToScaLab](http://toscalab.uninsubria.it/) members,[Antonio Cervellino](https://www.psi.ch/en/lsc/people/antonio-cervellino) and [Ruggero Frison](https://www.empa.ch/)
 
 
