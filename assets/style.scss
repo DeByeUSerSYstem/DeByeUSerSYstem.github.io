@@ -61,6 +61,7 @@ h1 {
 
 h2 {
   font-size: 24px;
+  text-align: center; /* test h2 left for download */
 }
 
 @media (min-width: 769px){
@@ -77,6 +78,7 @@ h2 {
 
 h3 {
   font-size: 20px;
+    text-align: center; /* test h3 left for download */
 }
 
 h4 {
@@ -312,7 +314,7 @@ p > img {
   font-weight: 300;
   font-size: 32px;
   letter-spacing: 1px;
-  text-align: left;
+  text-align: center; /* test center site name */
 
   @include mobile {
     text-align: center;
