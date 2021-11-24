@@ -81,7 +81,7 @@ Here some highlight studies:
 - [Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals.] [21]
 - [Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties.] [22]
 - [From Paracrystalline Ru(CO)[_4] 1D Polymer to Nanosized Ruthenium Metal.] [23]
-- [Size and Shape Dependence of the Photocatalytic Activity of TiOsub>2</sub> Nanocrystals.] [24]
+- [Size and Shape Dependence of the Photocatalytic Activity of TiO<sub>2</sub> Nanocrystals.] [24]
 - [Determination of nanoparticle structure type, size and strain distribution from X-ray data for monatomic fcc-derived non-crystallographic nanoclusters.] [25]
 
 [13]: <https://doi.org/10.1021/acs.jpcc.0c10502>
