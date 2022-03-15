@@ -24,8 +24,8 @@ Learn how to use Debussy [here] [6].
 
 [1]: <https://doi.org/10.1107/S1600576715020488> "DEBUSSY 2.0: the new release"
 [2]: <https://sourceforge.net/projects/debussy/files/2.2/WINDOWS/>
-[3]: >https://sourceforge.net/projects/debussy/files/2.2/UNIX-LINUX-MACOSX/>
-[4]: <https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/WINDOWS/Debussy_v2_2_WIN.zip>
-[5]: <https://sourceforge.net/project/debussy/files/2.2/2.2_ANACONDA_PYTHON/UNIX-LINUX-MACOSX/DEBUSSY_v2.2.zip>
+[3]: <https://sourceforge.net/projects/debussy/files/2.2/UNIX-LINUX-MACOSX/>
+[4]: <https://sourceforge.net/projects/debussy/files/2.2/2.2_ANACONDA_PYTHON/WINDOWS/>
+[5]: <https://sourceforge.net/projects/debussy/files/2.2/2.2_ANACONDA_PYTHON/UNIX-LINUX-MACOSX/>
 [6]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
 
