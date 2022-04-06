@@ -63,7 +63,7 @@ For an in-depth explanation of the central concepts regarding the software and t
 
 If you are interested in attending a school on how to use Debussy and total-scattering approaches, we suggest following the news of the [ToScaLab] [12] social profile on [Facebook] [12fb]. A school on the topic is generally held once a year.
 
-[11]: <https://sourceforge.net/projects/debussy/files/2.2/MANUALS.zip/download> "MANUALS.ZIP"
+[11]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2/tree/main/WINDOWS/cygwin64/DEBUSSY_v2.2/MANUALS> "MANUALS.ZIP"
 [12]: <http://toscalab.uninsubria.it/> "ToScaLab website"
 [12fb]: <https://www.facebook.com/toscalabCO> "facebook page"
 
