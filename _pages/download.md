@@ -28,5 +28,5 @@ Learn how to use Debussy [here] [5].
 [2]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2/tree/main/WINDOWS>
 [3]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2/tree/main/macOSX>
 [4]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2/tree/main/How2install> 
-[5]: <https://github.com/DeByeUSerSYstem/TUTORIALS> 
+[5]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
 
