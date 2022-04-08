@@ -29,5 +29,5 @@ Learn how to use Debussy [here] [5].
 [3]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX>
 [4]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-WINDOWS/blob/main/How2install/Programs_Installation_64bit_Windows.pdf> 
 [5]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
-[6]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Compiling%20the%20Debussy%20Suite%20on%20UNIX%20systems%20with%20Anaconda.pdf>
+[6]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Compiling_UNIX_with_Anaconda.pdf.pdf>
 [7]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Programs_Installation_MacOSX.pdf>
