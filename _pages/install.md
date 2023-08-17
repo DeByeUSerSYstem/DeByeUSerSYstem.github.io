@@ -24,13 +24,6 @@ permalink: /install/
 - Launch Debussy by double-clicking on `debussy-suite_GUI.bat` in the `C:\cygwin64\DEBUSSY_v2.2` folder.
 
 
-### Installation on MacOSX
-
-- Move into the folder `DEBUSSY_v2.2`.
-- Run the installer by typing on the terminal: `./install_debussy_v2.2`. You will be asked for root credentials.
-- Move into the folder `RUN_TEST_UNIX`.
-- Run the file `drun.sh` and follow the instructions on screen.
-
 ---
 
 
