@@ -7,8 +7,8 @@ title: Posts Archive
 
 <div id="archives">
   <section id="archive">
-     <h3>Most Recent Posts</h3>
-      {%for post in site.posts %}
+    <h3>Most Recent Posts</h3>
+      {% for post in site.posts %}
       {% unless post.next %}
       <ul class="this">
           {% else %}
