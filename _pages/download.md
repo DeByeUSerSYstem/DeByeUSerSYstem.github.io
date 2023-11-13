@@ -17,7 +17,7 @@ We shall greatly appreciate if scientific work done using Debussy will contain a
 
 
 ### How to install
-Learn how to install Debussy on [Windows] [4],and how to compile it from sources on [LINUX] [6] and [MacOSX] [7] systems.
+Learn how to install Debussy on [Windows] [4], and how to compile it from sources on [LINUX] [6] and [MacOSX] [7] systems.
 
 
 ### How to use
