@@ -39,9 +39,9 @@ Here some of the main features of Debussy:
 ### Who made Debussy and when?
 In 2006 [Antonio Cervellino] [3] and [Antonietta Guagliardi] [4] developed a [new approach for the evaluation of Fourier patterns of model structures] [5]. This made feasible the employment of a DSE-based technique to model scattering data from nanomaterials. Few years later, in 2010, the same authors released [the first version of Debussy] [6], that included a full workflow to perform data analysis, from modelling to fitting. <br>
 
-In 2015, [Antonio Cervellino] [3], [Ruggero Frison] [7], [Federica Bertolotti] [8] and [Antonietta Guagliardi] [4] released the [Debussy 2.0] [9]. This update introduced many new features, including a Graphical User Interface (GUI), the treatment of Compton scattering and a more robust statistical treatment of fitting parameters. <br>
+In 2015, Antonio Cervellino, [Ruggero Frison] [7], [Federica Bertolotti] [8] and Antonietta Guagliardi released the [Debussy 2.0] [9]. This update introduced many new features, including a Graphical User Interface (GUI), the treatment of Compton scattering and a more robust statistical treatment of fitting parameters. <br>
 
-Debussy is still developed and maintained by the jointed efforts of [ToScaLab members] [10] (Uninsubria/IC-CNR), [Antonio Cervellino] [3] (SLS/PSI) and [Ruggero Frison] [7] (UZH).
+Debussy is still developed and maintained by the jointed efforts of [ToScaLab members] [10] (Uninsubria/IC-CNR), Antonio Cervellino (SLS/PSI) and Ruggero Frison (UZH).
 
 [3]: <https://www.psi.ch/en/lsc/people/antonio-cervellino> "Antonio Cervellino - PSI"
 [4]: <http://toscalab.uninsubria.it/index.php/people> "Antonella Guagliardi - CNR"
@@ -63,7 +63,7 @@ For an in-depth explanation of the central concepts regarding the software and t
 
 If you are interested in attending a school on how to use Debussy and total-scattering approaches, we suggest following the news of the [ToScaLab] [12] social profile on [Facebook] [12fb]. A school on the topic is generally held once a year.
 
-[11]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2/tree/main/WINDOWS/cygwin64/DEBUSSY_v2.2/MANUALS> "MANUALS.ZIP"
+[11]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-WINDOWS/tree/main/WINDOWS/cygwin64/DEBUSSY_v2.2/MANUALS> "MANUALS.ZIP"
 [12]: <http://toscalab.uninsubria.it/> "ToScaLab website"
 [12fb]: <https://www.facebook.com/toscalabCO> "facebook page"
 

@@ -17,17 +17,16 @@ We shall greatly appreciate if scientific work done using Debussy will contain a
 
 
 ### How to install
-Learn how to install Debussy on [Windows] [4], and how to compile it from sources on [LINUX] [6] and [MacOSX] [7] systems.
+Learn how to install Debussy on [Windows] [4], and how to compile it from sources on [LINUX] [5] and [MacOSX] [5] systems.
 
 
 ### How to use
-Learn how to use Debussy [here] [5].
+Learn how to use Debussy [here] [6].
 
 
 [1]: <https://doi.org/10.1107/S1600576715020488> "DEBUSSY 2.0: the new release"
 [2]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-WINDOWS>
 [3]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX>
 [4]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-WINDOWS/blob/main/How2install/Programs_Installation_64bit_Windows.pdf> 
-[5]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
-[6]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Compiling_UNIX_with_Anaconda.pdf>
-[7]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Programs_Installation_MacOSX.pdf>
+[5]: <https://github.com/DeByeUSerSYstem/DEBUSSY_v2.2-UNIX/blob/main/How2install/Compiling_UNIX_with_Anaconda.pdf>
+[6]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
