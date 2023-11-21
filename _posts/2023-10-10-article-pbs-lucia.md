@@ -21,7 +21,9 @@ This offers a compelling alternative to the lengthy process 🕰️ of deriving 
 
 
 #QuantumDots #DeepLearning #NanoscienceInnovation #SneakPeek 👀<br/>
-[Download the preprint!](/docs/ChemRxiv_preprint_Pbs_Lucia.pdf)
+Download the preprint!
+<object data="{{ docs.ChemRxiv_preprint_Pbs_Lucia.pdf }}" width="1000" height="1000" type='application/pdf'/>
+
 
 🦆
 
