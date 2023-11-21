@@ -1,12 +1,12 @@
 ---
 layout: post
-title: My papero
-categories: [Publication, 🦆QUACK]
+title: NWE ARTICLE! QDs sizing via WAXTS & AI
+categories: [Publication🦆, Lucia]
 ---
 
-# 🌟 Exciting News Ahead! 🌟
+# 🌈 Unveiling "[A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9)" 📚💡🔍
 
-### 🌈 Unveiling "[A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9)" 📚💡🔍
+## 🌟 Exciting News Ahead! 🌟
 
 🧠✨ Our pioneering fusion of Wide-Angle X-ray Total Scattering and AI surpasses 97% accuracy 🎯, leaving calibration curves behind! 🚀
 
@@ -18,11 +18,13 @@ This offers a compelling alternative to the lengthy process 🕰️ of deriving 
 
 ☀️ Nanoscale revelations await – Stay tuned for the future of quantum dots research! 🔬📚
 
+
+
 #QuantumDots #DeepLearning #NanoscienceInnovation #SneakPeek 👀
 
 🦆
 
 
 
-![](/images/PbS_model.png)
+![](/images/PbS_model1.png)
 ![](/images/PbS_paper_Lucia_adv.png)
