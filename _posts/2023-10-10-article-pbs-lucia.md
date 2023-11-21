@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NEW ARTICLE! QDs sizing via WAXTS & AI
+title: NEW ARTICLE! – QDs sizing via WAXTS & AI
 categories: [Publication🦆, Lucia]
 ---
 
@@ -8,7 +8,7 @@ categories: [Publication🦆, Lucia]
 
 ## 🌈 Exciting News Ahead! 📚💡🔍
 
-🧠✨ Unveiling our pioneering fusion of Wide-Angle X-ray Total Scattering and AI surpasses 97% accuracy 🎯, leaving calibration curves behind! 🚀
+🧠✨ Our pioneering fusion of Wide-Angle X-ray Total Scattering and AI surpasses 97% accuracy 🎯, leaving calibration curves behind! 🚀
 
 Welcome to our exciting preprint, where we present a successful combination of total scattering data with a deep learning classifier for directly sizing quantum dots in both colloidal and dry states.
 
