@@ -4,7 +4,7 @@ title: NEW ARTICLE! QDs sizing via WAXTS & AI
 categories: [Publication🦆, Lucia]
 ---
 
-### 🌟 [A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9) 🌟
+## 🌟 [A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9) 🌟
 
 ## 🌈 Exciting News Ahead! 📚💡🔍
 
@@ -21,9 +21,7 @@ This offers a compelling alternative to the lengthy process 🕰️ of deriving 
 
 
 #QuantumDots #DeepLearning #NanoscienceInnovation #SneakPeek 👀<br/>
-Download the preprint!
-<object data="{{ docs.ChemRxiv_preprint_Pbs_Lucia.pdf }}" width="1000" height="1000" type='application/pdf'/>
-
+[Download the preprint!](https://chemrxiv.org/engage/api-gateway/chemrxiv/assets/orp/resource/item/654a230248dad2312042ae94/original/a-deep-learning-approach-for-quantum-dots-sizing-from-wide-angle-x-ray-scattering-data.pdf)
 
 🦆
 
