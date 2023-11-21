@@ -6,20 +6,23 @@ categories: [Publication, 🦆QUACK]
 
 ## 🌟 Exciting News Ahead! 🌟
 
-🌈 Unveiling "<a href="https://doi.org/10.26434/chemrxiv-2023-127s9">A Deep Learning Approach for Quantum Dots Sizing</a>" 📚💡🔍
-<!-- 🌈 Unveiling "[A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9)" 📚💡🔍 -->
+### 🌈 Unveiling "[A Deep Learning Approach for Quantum Dots Sizing](https://doi.org/10.26434/chemrxiv-2023-127s9)" 📚💡🔍
 
-🧠✨ Our pioneering fusion of Wide-Angle X-ray Total Scattering and AI surpasses 97% accuracy🎯, leaving calibration curves behind!🚀
+🧠✨ Our pioneering fusion of Wide-Angle X-ray Total Scattering and AI surpasses 97% accuracy 🎯, leaving calibration curves behind! 🚀
 
-Welcome to our exciting preprint, where we present a successful combination of total scattering data with a deep learning classifier for directly sizing quantum dots in both colloidal and dry states.<br/>
-Our model💻, rigorously tested📊 on data📈 with physically meaningful augmentation, has tackled extreme conditions: from low QDs concentrations to short angular ranges and bad angular resolutions. The result? Solid performance🔥, even in untrained experimental conditions, leaving the chemists🧑‍🔬 and 🥼material scientists community with a robust and flexible model.<br/>
-This offers a compelling alternative to the lengthy process🕰️ of deriving sizing curves from transmission electron microscopy coupled with spectroscopic measurements.
+Welcome to our exciting preprint, where we present a successful combination of total scattering data with a deep learning classifier for directly sizing quantum dots in both colloidal and dry states.
 
-☀️ Nanoscale revelations await – Stay tuned for the future of quantum dots research!🔬📚
+Our model 💻, rigorously tested 📊 on data 📈 with physically meaningful augmentation, has tackled extreme conditions: from low QDs concentrations to short angular ranges and bad angular resolutions. The result? Solid performance 🔥, even in untrained experimental conditions, leaving the chemists 🧑‍🔬 and 🥼 material scientists community with a robust and flexible model.
+
+This offers a compelling alternative to the lengthy process 🕰️ of deriving sizing curves from transmission electron microscopy coupled with spectroscopic measurements.
+
+☀️ Nanoscale revelations await – Stay tuned for the future of quantum dots research! 🔬📚
 
 #QuantumDots #DeepLearning #NanoscienceInnovation #SneakPeek 👀
 
 🦆
 
 
-[](/images/PbS_paper_Lucia_adv.png)
+
+
+![](/images/PbS_paper_Lucia_adv.png)
