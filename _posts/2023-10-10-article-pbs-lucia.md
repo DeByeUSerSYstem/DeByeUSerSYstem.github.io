@@ -24,5 +24,5 @@ This offers a compelling alternative to the lengthy process 🕰️ of deriving 
 
 
 
-
+![](/images/PbS_model.png)
 ![](/images/PbS_paper_Lucia_adv.png)
