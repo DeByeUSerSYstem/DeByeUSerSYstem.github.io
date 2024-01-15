@@ -23,7 +23,7 @@ A common analysis workflow consist in two main steps:
 You can find how to get started with Debussy [here] [2]. If you have questions about Debussy, [contact us] [mailto]!
 
 [2]: <https://debyeusersystem.github.io/getting-started/> "Getting Started"
-[mailto]: <mailto:federica.bertolotti@uninsubria.it;antonietta.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch>
+[mailto]: <mailto:federica.bertolotti@uninsubria.it;antonella.guagliardi@ic.cnr.it;ruggero.frison@protonmail.ch;antonio.cervellino@psi.ch>
 
 
 ### What are the features of Debussy?
