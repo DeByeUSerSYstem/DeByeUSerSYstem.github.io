@@ -70,6 +70,13 @@ If you are interested in attending a school on how to use Debussy and total-scat
 
 ### What has been done with Debussy?
 Here some highlight studies:
+
+- [A deep learning approach for quantum dots sizing from wide-angle X-ray scattering data.] [31]
+- [Size- and Temperature-Dependent Lattice Anisotropy and Structural Distortion in CsPbBr3 Quantum Dots by Reciprocal Space X-ray Total Scattering Analysis.] [30]
+- [Coupling to octahedral tilts in halide perovskite nanocrystals induces phonon-mediated attractive interactions between excitons.] [29]
+- [Site-occupancy factors in the Debye scattering equation. A theoretical discussion on significance and correctness.] [28]
+- [Effects of Structural and Microstructural Features on the Total Scattering Pattern of Nanocrystalline Materials.] [27]
+- [Size Segregation and Atomic Structural Coherence in Spontaneous Assemblies of Colloidal Cesium Lead Halide Nanocrystals.] [26]
 - [Band Gap Narrowing in Silane-Grafted ZnO Nanocrystals. A Comprehensive Study by Wide-Angle X-ray Total Scattering Methods.] [13]
 - [On the amorphous layer in bone mineral and biomimetic apatite: A combined small- and wide-angle X-ray scattering analysis.] [14]
 - [Structure, Morphology, and Faceting of TiO<sub>2</sub> Photocatalysts by the Debye Scattering Equation Method. The P25 and P90 Cases of Study.] [15]
@@ -78,12 +85,17 @@ Here some highlight studies:
 - [When Crystals Go Nano–The Role of Advanced X‐ray Total Scattering Methods in Nanotechnology.] [18]
 - [Coherent nanotwins and dynamic disorder in caesium lead halide perovskite nanocrystals.] [19]
 - [Crystal symmetry breaking and vacancies in colloidal lead chalcogenide quantum dots.] [20]
-- [Crystal Size, Morphology, and Growth Mechanism in Bio-Inspired Apatite Nanocrystals.] [21]
 - [Magnetite–Maghemite Nanoparticles in the 5–15 nm Range: Correlating the Core–Shell Composition and the Surface Structure to the Magnetic Properties.] [22]
 - [From Paracrystalline Ru(CO)<sub>4</sub> 1D Polymer to Nanosized Ruthenium Metal.] [23]
 - [Size and Shape Dependence of the Photocatalytic Activity of TiO<sub>2</sub> Nanocrystals.] [24]
 - [Determination of nanoparticle structure type, size and strain distribution from X-ray data for monatomic fcc-derived non-crystallographic nanoclusters.] [25]
 
+[31]: <https://doi.org/10.1038/s41524-024-01241-6>
+[30]: <https://doi.org/10.1002/sstr.202300264>
+[29]: <https://doi.org/10.1038/s41567-023-02253-7>
+[28]: <https://doi.org/10.1107/S2053273323008446>
+[27]: <https://doi.org/10.3390/nano12081252>
+[26]: <https://doi.org/10.1021/acs.chemmater.1c03162>
 [13]: <https://doi.org/10.1021/acs.jpcc.0c10502>
 [14]: <https://doi.org/10.1016/j.actbio.2020.04.026>
 [15]: <https://doi.org/10.3390/nano10040743>
